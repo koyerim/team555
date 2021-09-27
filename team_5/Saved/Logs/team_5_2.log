@@ -1493,3 +1493,250 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.27-06.05.40:473][404]AssetCheck: New page: Asset Save: team_5_2
 [2021.09.27-06.05.40:473][404]LogContentValidation: Display: Validating World /Game/team_5_2.team_5_2
 [2021.09.27-06.05.42:356][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.09.27-06.09.46:704][153]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.27-06.09.49:284][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.27-06.09.49:580][481]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.09.27-06.09.52:833][866]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pan_2)
+[2021.09.27-06.09.53:551][948]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.09.27-06.10.07:792][626]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.09.27-06.10.15:438][521]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Whithebox_Export_Object84)
+[2021.09.27-06.10.16:136][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Whithebox_Export_Object84)
+[2021.09.27-06.10.17:674][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Whithebox_Export_Object84)
+[2021.09.27-06.10.18:725][908]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Whithebox_Export_Object84)
+[2021.09.27-06.10.41:882][653]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.27-06.10.42:260][695]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Whithebox_Export_Object84)
+[2021.09.27-06.10.52:431][891]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Whithebox_Export_Object082)
+[2021.09.27-06.11.01:333][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.27-06.11.12:848][295]Cmd: DELETE
+[2021.09.27-06.11.12:848][295]Cmd: ACTOR DELETE
+[2021.09.27-06.11.12:853][295]LogEditorActor: Deleted Actor: Brush
+[2021.09.27-06.11.12:860][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.09.27-06.11.12:867][295]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2021.09.27-06.11.15:384][593]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.27-06.11.25:490][777]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.27-06.11.26:981][949]Cmd: TRANSACTION UNDO
+[2021.09.27-06.11.26:981][949]LogEditorTransaction: Undo Rotate Actors
+[2021.09.27-06.11.27:456][962]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.09.27-06.11.29:002][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/team_5_2" FILE="../../../../../../Users/Default.DESKTOP-6F3BTUF/Desktop/team555/team_5/Content/team_5_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.27-06.11.29:006][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.09.27-06.11.29:096][136]LogSavePackage: Moving '../../../../../../Users/Default.DESKTOP-6F3BTUF/Desktop/team555/team_5/Saved/team_5_2B32DBC1941F2A6FFDCCAD89AFC8C8A9A.tmp' to '../../../../../../Users/Default.DESKTOP-6F3BTUF/Desktop/team555/team_5/Content/team_5_2.umap'
+[2021.09.27-06.11.29:113][136]AssetCheck: New page: Asset Save: team_5_2
+[2021.09.27-06.11.29:113][136]LogContentValidation: Display: Validating World /Game/team_5_2.team_5_2
+[2021.09.27-06.11.38:974][798]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.09.27-06.11.39:743][889]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.09.27-06.11.40:773][ 11]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.09.27-06.11.41:709][122]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.09.27-06.11.46:879][737]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Whithebox_Export_Plane029)
+[2021.09.27-06.11.47:526][811]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube13)
+[2021.09.27-06.11.49:288][ 16]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Whithebox_Export_Plane029)
+[2021.09.27-06.12.01:064][417]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Whithebox_Export_Plane028)
+[2021.09.27-06.12.02:922][636]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere19)
+[2021.09.27-06.12.03:352][684]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere18)
+[2021.09.27-06.12.03:996][758]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere17)
+[2021.09.27-06.12.04:724][842]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere16)
+[2021.09.27-06.12.05:348][914]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere15)
+[2021.09.27-06.12.05:920][979]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere14)
+[2021.09.27-06.12.06:491][ 44]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere13)
+[2021.09.27-06.12.07:045][107]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere12)
+[2021.09.27-06.12.07:647][176]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere20)
+[2021.09.27-06.12.08:137][231]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere21)
+[2021.09.27-06.12.08:609][284]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere22)
+[2021.09.27-06.12.11:154][584]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.27-06.12.16:412][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Whithebox_Export_Plane029)
+[2021.09.27-06.12.20:421][676]Cmd: TRANSACTION UNDO
+[2021.09.27-06.12.20:421][676]LogEditorTransaction: Undo Scale Actors
+[2021.09.27-06.12.21:534][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.27-06.12.22:087][826]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.09.27-06.12.31:066][269]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.27-06.12.31:952][371]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.09.27-06.12.35:960][848]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.09.27-06.14.46:889][108]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.27-06.14.53:092][846]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.27-06.14.54:045][948]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Whithebox_Export_Cylinder9)
+[2021.09.27-06.14.55:827][157]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere9)
+[2021.09.27-06.15.01:207][779]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere36)
+[2021.09.27-06.15.01:911][856]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor)
+[2021.09.27-06.15.02:848][965]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.27-06.15.03:496][ 40]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere9)
+[2021.09.27-06.15.04:482][155]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Whithebox_Export_Cylinder9)
+[2021.09.27-06.15.05:126][229]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere36)
+[2021.09.27-06.15.05:730][298]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere37)
+[2021.09.27-06.15.09:157][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.27-06.15.09:819][780]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.27-06.16.42:539][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Whithebox_Export_Box003)
+[2021.09.27-06.16.44:112][ 29]Cmd: DELETE
+[2021.09.27-06.16.44:112][ 29]Cmd: ACTOR DELETE
+[2021.09.27-06.16.44:117][ 29]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.27-06.16.44:122][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.09.27-06.16.44:124][ 29]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.09.27-06.16.45:240][163]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Whithebox_Export_Object078)
+[2021.09.27-06.16.45:891][238]Cmd: DELETE
+[2021.09.27-06.16.45:891][238]Cmd: ACTOR DELETE
+[2021.09.27-06.16.45:896][238]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.27-06.16.45:900][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.09.27-06.16.45:901][238]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.09.27-06.16.47:741][452]LogMaterial: Display: Missing cached shadermap for 05_-_Default in PCD3D_SM5, Default, SM5 (DDC key hash: 60B91AC4F640CFEF5A5A52D7693C725D74E18AFC), compiling. 
+[2021.09.27-06.16.47:767][452]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2021.09.27-06.16.47:768][452]LogStaticMesh: Building static mesh house02_export_Object457...
+[2021.09.27-06.16.47:769][452]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 16
+[2021.09.27-06.16.47:769][452]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 14
+[2021.09.27-06.16.47:769][452]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.09.27-06.16.47:769][452]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2021.09.27-06.16.47:769][452]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2021.09.27-06.16.47:769][452]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2021.09.27-06.16.47:769][452]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2021.09.27-06.16.47:769][452]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.09.27-06.16.47:769][452]LogShaderCompilers: Display: Started 16 'Local' shader compile jobs with 'Low' priority
+[2021.09.27-06.16.48:004][452]LogStaticMesh: Built static mesh [0.24s] /Game/Hong_house/house02_export_Object457.house02_export_Object457
+[2021.09.27-06.16.48:077][452]LogActorFactory: Actor Factory created house02_export_Object457
+[2021.09.27-06.16.48:825][477]LogActorFactory: Actor Factory created house02_export_Object457
+[2021.09.27-06.16.48:964][478]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.09.27-06.16.48:964][478]LogShaderCompilers: Display: Total job queries 16, among them cache hits 0 (0.00%)
+[2021.09.27-06.16.48:964][478]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 2 distinct outputs (100.00%)
+[2021.09.27-06.16.48:964][478]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2021.09.27-06.16.48:964][478]LogShaderCompilers: Display: ================================================
+[2021.09.27-06.17.30:692][290]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (house02_export_Object457)
+[2021.09.27-06.17.31:625][401]Cmd: DELETE
+[2021.09.27-06.17.31:625][401]Cmd: ACTOR DELETE
+[2021.09.27-06.17.31:630][401]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.27-06.17.31:634][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.09.27-06.17.31:636][401]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.09.27-06.17.38:503][222]Cmd: TRANSACTION UNDO
+[2021.09.27-06.17.38:503][222]LogEditorTransaction: Undo Delete Actors
+[2021.09.27-06.17.38:997][236]Cmd: TRANSACTION UNDO
+[2021.09.27-06.17.38:997][236]LogEditorTransaction: Undo Set Scale
+[2021.09.27-06.17.39:312][271]Cmd: TRANSACTION UNDO
+[2021.09.27-06.17.39:312][271]LogEditorTransaction: Undo Set Scale
+[2021.09.27-06.17.39:572][302]Cmd: TRANSACTION UNDO
+[2021.09.27-06.17.39:572][302]LogEditorTransaction: Undo Move Actors
+[2021.09.27-06.17.39:807][328]Cmd: TRANSACTION UNDO
+[2021.09.27-06.17.39:807][328]LogEditorTransaction: Undo Move Actors
+[2021.09.27-06.17.40:025][354]Cmd: TRANSACTION UNDO
+[2021.09.27-06.17.40:025][354]LogEditorTransaction: Undo Move Actors
+[2021.09.27-06.17.40:243][380]Cmd: TRANSACTION UNDO
+[2021.09.27-06.17.40:243][380]LogEditorTransaction: Undo Create Actors
+[2021.09.27-06.17.40:466][403]Cmd: TRANSACTION UNDO
+[2021.09.27-06.17.40:466][403]LogEditorTransaction: Undo Delete Actors
+[2021.09.27-06.17.40:678][424]Cmd: TRANSACTION UNDO
+[2021.09.27-06.17.40:678][424]LogEditorTransaction: Undo Clicking on Actors
+[2021.09.27-06.17.41:014][461]Cmd: TRANSACTION UNDO
+[2021.09.27-06.17.41:015][461]LogEditorTransaction: Undo Delete Actors
+[2021.09.27-06.17.41:821][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.27-06.17.44:727][883]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.09.27-06.17.56:070][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.27-06.17.57:053][220]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.09.27-06.18.19:327][747]Cmd: TRANSACTION UNDO
+[2021.09.27-06.18.19:327][747]LogEditorTransaction: Undo Create Actors
+[2021.09.27-06.18.20:333][808]LogMaterial: Display: Missing cached shadermap for 17_-_Default in PCD3D_SM5, Default, SM5 (DDC key hash: 9AE490358F1392F348FBB60AF8F97AEFC257DF7B), compiling. 
+[2021.09.27-06.18.20:341][808]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2021.09.27-06.18.20:343][808]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 16
+[2021.09.27-06.18.20:344][808]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 14
+[2021.09.27-06.18.20:344][808]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.09.27-06.18.20:344][808]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2021.09.27-06.18.20:344][808]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2021.09.27-06.18.20:344][808]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2021.09.27-06.18.20:344][808]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2021.09.27-06.18.20:344][808]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.09.27-06.18.20:344][808]LogShaderCompilers: Display: Started 16 'Local' shader compile jobs with 'Low' priority
+[2021.09.27-06.18.21:293][847]Cmd: TRANSACTION UNDO
+[2021.09.27-06.18.21:294][847]LogEditorTransaction: Undo Create Actors
+[2021.09.27-06.18.21:918][862]LogMaterial: Display: Missing cached shadermap for 21_-_Default in PCD3D_SM5, Default, SM5 (DDC key hash: 602497DC4DBE644C427D89BB7EF8E0FCF588A30D), compiling. 
+[2021.09.27-06.18.21:928][862]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2021.09.27-06.18.21:933][862]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 16
+[2021.09.27-06.18.21:933][862]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 14
+[2021.09.27-06.18.21:933][862]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 12
+[2021.09.27-06.18.21:933][862]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 10
+[2021.09.27-06.18.21:933][862]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 8
+[2021.09.27-06.18.21:933][862]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.09.27-06.18.21:933][862]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.09.27-06.18.21:933][862]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2021.09.27-06.18.21:933][862]LogShaderCompilers: Display: Started 16 'Local' shader compile jobs with 'Low' priority
+[2021.09.27-06.18.22:663][881]Cmd: TRANSACTION UNDO
+[2021.09.27-06.18.22:664][881]LogEditorTransaction: Undo Create Actors
+[2021.09.27-06.18.23:254][895]LogMaterial: Display: Missing cached shadermap for 22_-_Default in PCD3D_SM5, Default, SM5 (DDC key hash: 1AF5A76470D55844F59C59C2A118B21432FAE604), compiling. 
+[2021.09.27-06.18.23:268][895]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2021.09.27-06.18.23:273][895]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 16
+[2021.09.27-06.18.23:273][895]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 14
+[2021.09.27-06.18.23:273][895]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.09.27-06.18.23:273][895]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.09.27-06.18.23:273][895]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2021.09.27-06.18.23:273][895]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2021.09.27-06.18.23:273][895]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 4
+[2021.09.27-06.18.23:273][895]LogShaderCompilers: Display: Started 14 'Local' shader compile jobs with 'Low' priority
+[2021.09.27-06.18.23:694][901]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.09.27-06.18.23:694][901]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.09.27-06.18.23:765][903]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2021.09.27-06.18.23:765][903]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.09.27-06.18.23:959][908]Cmd: TRANSACTION UNDO
+[2021.09.27-06.18.23:959][908]LogEditorTransaction: Undo Create Actors
+[2021.09.27-06.19.12:239][886]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.09.27-06.19.13:580][ 29]LogActorFactory: Actor Factory created house02_export_Object457
+[2021.09.27-06.19.16:357][358]Cmd: TRANSACTION UNDO
+[2021.09.27-06.19.16:357][358]LogEditorTransaction: Undo Clicking on Actors
+[2021.09.27-06.19.17:367][430]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.09.27-06.19.18:451][528]LogActorFactory: Actor Factory created house02_export_Object457
+[2021.09.27-06.19.19:459][647]LogActorFactory: Actor Factory created house02_export_Object457
+[2021.09.27-06.19.19:975][707]LogActorFactory: Actor Factory created house02_export_Object457
+[2021.09.27-06.19.20:852][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (house02_export_Object457)
+[2021.09.27-06.19.48:047][981]Cmd: TRANSACTION UNDO
+[2021.09.27-06.19.48:047][981]LogEditorTransaction: Undo Create Actors
+[2021.09.27-06.19.49:276][ 76]Cmd: TRANSACTION UNDO
+[2021.09.27-06.19.49:276][ 76]LogEditorTransaction: Undo Create Actors
+[2021.09.27-06.19.50:492][203]Cmd: TRANSACTION UNDO
+[2021.09.27-06.19.50:492][203]LogEditorTransaction: Undo Create Actors
+[2021.09.27-06.19.51:834][343]Cmd: TRANSACTION UNDO
+[2021.09.27-06.19.51:834][343]LogEditorTransaction: Undo Create Actors
+[2021.09.27-06.20.13:389][882]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Whithebox_Export_Box003)
+[2021.09.27-06.20.14:166][972]Cmd: DELETE
+[2021.09.27-06.20.14:166][972]Cmd: ACTOR DELETE
+[2021.09.27-06.20.14:171][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.27-06.20.14:175][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.09.27-06.20.14:176][972]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.09.27-06.20.15:109][ 84]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (house02_export_Object457)
+[2021.09.27-06.20.19:103][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Whithebox_Export_Object078)
+[2021.09.27-06.20.19:915][651]Cmd: DELETE
+[2021.09.27-06.20.19:915][651]Cmd: ACTOR DELETE
+[2021.09.27-06.20.19:920][651]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.27-06.20.19:924][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.09.27-06.20.19:925][651]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2021.09.27-06.20.20:823][759]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.09.27-06.20.21:337][818]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.27-06.20.21:774][867]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (house02_export_Object457)
+[2021.09.27-06.20.39:890][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.27-06.20.42:763][359]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (house02_export_Object457)
+[2021.09.27-06.20.46:696][825]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.27-06.20.47:425][909]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.09.27-06.21.04:709][968]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Whithebox_Export_Plane029)
+[2021.09.27-06.21.05:378][ 45]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube13)
+[2021.09.27-06.21.08:457][403]Cmd: DELETE
+[2021.09.27-06.21.08:457][403]Cmd: ACTOR DELETE
+[2021.09.27-06.21.08:462][403]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.27-06.21.08:462][403]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.27-06.21.08:468][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.09.27-06.21.08:470][403]LogEditorActor: Deleted 2 Actors (0.012 secs)
+[2021.09.27-06.21.09:738][554]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (house02_export_Object457)
+[2021.09.27-06.21.41:486][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.09.27-06.21.41:576][477]LogSavePackage: Moving '../../../../../../Users/Default.DESKTOP-6F3BTUF/Desktop/team555/team_5/Saved/team_5_2_Auto1ED7D635E4738D6DEFE80819326A2AF9B.tmp' to '../../../../../../Users/Default.DESKTOP-6F3BTUF/Desktop/team555/team_5/Saved/Autosaves/Game/team_5_2_Auto1.umap'
+[2021.09.27-06.21.41:580][477]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/team_5_2' took 0.097
+[2021.09.27-06.21.41:580][477]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.097
+[2021.09.27-06.21.54:195][696]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.27-06.21.54:750][759]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (house02_export_Object457)
+[2021.09.27-06.22.00:468][438]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.27-06.22.01:643][575]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.09.27-06.22.03:019][737]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (house02_export_Object457)
+[2021.09.27-06.22.18:080][530]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.09.27-06.22.19:613][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (house02_export_Object457)
+[2021.09.27-06.22.23:494][171]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.09.27-06.22.26:147][486]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (house02_export_Object457)
+[2021.09.27-06.22.28:020][706]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (house02_export_Object457)
+[2021.09.27-06.22.28:544][768]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.09.27-06.22.38:009][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/team_5_2" FILE="../../../../../../Users/Default.DESKTOP-6F3BTUF/Desktop/team555/team_5/Content/team_5_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.27-06.22.38:012][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.09.27-06.22.38:099][895]LogSavePackage: Moving '../../../../../../Users/Default.DESKTOP-6F3BTUF/Desktop/team555/team_5/Saved/team_5_2CCFC126B430F275B2DA67B9A2809792F.tmp' to '../../../../../../Users/Default.DESKTOP-6F3BTUF/Desktop/team555/team_5/Content/team_5_2.umap'
+[2021.09.27-06.22.38:115][895]AssetCheck: New page: Asset Save: team_5_2
+[2021.09.27-06.22.38:115][895]LogContentValidation: Display: Validating World /Game/team_5_2.team_5_2
+[2021.09.27-06.22.41:022][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.09.27-06.22.46:233][841]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.27-06.22.46:904][918]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (house02_export_Object457)
+[2021.09.27-06.22.48:846][147]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (house02_export_Object457)
+[2021.09.27-06.22.50:295][311]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
