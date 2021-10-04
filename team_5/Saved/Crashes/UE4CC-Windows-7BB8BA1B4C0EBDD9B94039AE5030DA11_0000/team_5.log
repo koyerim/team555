@@ -1,0 +1,1516 @@
+﻿Log file open, 10/04/21 13:12:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: team_5
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.290157
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-17155196
+LogInit: Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz, GPU: NVIDIA GeForce GTX 1660 SUPER
+LogInit: Compiled (64-bit): Aug 13 2021 06:13:13
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/kch/Desktop/team555/team_5/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.10.04-04.12.19:415][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.10.04-04.12.19:415][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.10.04-04.12.19:415][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/kch/Desktop/team555/team_5/Saved/Config/Windows/Engine.ini]
+[2021.10.04-04.12.19:415][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.10.04-04.12.19:415][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/kch/Desktop/team555/team_5/Saved/Config/Windows/Engine.ini]
+[2021.10.04-04.12.19:415][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/kch/Desktop/team555/team_5/Saved/Config/Windows/Engine.ini]
+[2021.10.04-04.12.19:415][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.10.04-04.12.19:415][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.10.04-04.12.19:415][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.10.04-04.12.19:415][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.10.04-04.12.19:415][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.10.04-04.12.19:415][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.10.04-04.12.19:415][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.10.04-04.12.19:415][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.10.04-04.12.19:415][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.10.04-04.12.19:415][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.10.04-04.12.19:415][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.10.04-04.12.19:415][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.10.04-04.12.19:415][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.10.04-04.12.19:415][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.10.04-04.12.19:415][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/kch/Desktop/team555/team_5/Saved/Config/Windows/Engine.ini]
+[2021.10.04-04.12.19:415][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.10.04-04.12.19:415][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.10.04-04.12.19:415][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.10.04-04.12.19:415][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.10.04-04.12.19:415][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.10.04-04.12.19:415][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.10.04-04.12.19:415][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.10.04-04.12.19:415][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.10.04-04.12.19:415][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.10.04-04.12.19:415][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.10.04-04.12.19:415][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.10.04-04.12.19:415][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.10.04-04.12.19:415][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.10.04-04.12.19:415][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.10.04-04.12.19:415][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/kch/Desktop/team555/team_5/Saved/Config/Windows/Engine.ini]
+[2021.10.04-04.12.19:415][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/kch/Desktop/team555/team_5/Saved/Config/Windows/Engine.ini]
+[2021.10.04-04.12.19:655][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/kch/Desktop/team555/team_5/Saved/Config/Windows/Scalability.ini]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/kch/Desktop/team555/team_5/Saved/Config/Windows/Scalability.ini]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/kch/Desktop/team555/team_5/Saved/Config/Windows/Scalability.ini]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/kch/Desktop/team555/team_5/Saved/Config/Windows/Scalability.ini]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/kch/Desktop/team555/team_5/Saved/Config/Windows/Scalability.ini]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.04-04.12.19:655][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/kch/Desktop/team555/team_5/Saved/Config/Windows/Scalability.ini]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/kch/Desktop/team555/team_5/Saved/Config/Windows/Scalability.ini]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/kch/Desktop/team555/team_5/Saved/Config/Windows/Scalability.ini]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.10.04-04.12.19:656][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.04-04.12.19:656][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.10.04-04.12.19:656][  0]LogHAL: Display: Platform has ~ 16 GB [17111224320 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.10.04-04.12.19:656][  0]LogInit: Going up to parent DeviceProfile []
+[2021.10.04-04.12.19:656][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/kch/Desktop/team555/team_5/Saved/Config/Windows/Scalability.ini]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/kch/Desktop/team555/team_5/Saved/Config/Windows/Scalability.ini]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/kch/Desktop/team555/team_5/Saved/Config/Windows/Scalability.ini]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/kch/Desktop/team555/team_5/Saved/Config/Windows/Scalability.ini]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.10.04-04.12.19:656][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/kch/Desktop/team555/team_5/Saved/Config/Windows/Scalability.ini]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/kch/Desktop/team555/team_5/Saved/Config/Windows/Scalability.ini]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/kch/Desktop/team555/team_5/Saved/Config/Windows/Scalability.ini]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/kch/Desktop/team555/team_5/Saved/Config/Windows/Scalability.ini]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.10.04-04.12.19:657][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.10.04-04.12.19:658][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.10.04-04.12.19:658][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.10.04-04.12.19:658][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.10.04-04.12.19:658][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/kch/Desktop/team555/team_5/Saved/Config/Windows/Engine.ini]
+[2021.10.04-04.12.19:658][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/kch/Desktop/team555/team_5/Saved/Config/Windows/Editor.ini]
+[2021.10.04-04.12.19:658][  0]LogInit: Computer: DESKTOP-L0QE7EB
+[2021.10.04-04.12.19:658][  0]LogInit: User: kch
+[2021.10.04-04.12.19:658][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.10.04-04.12.19:658][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.10.04-04.12.19:658][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.10.04-04.12.19:658][  0]LogMemory: Platform Memory Stats for Windows
+[2021.10.04-04.12.19:658][  0]LogMemory: Process Physical Memory: 146.95 MB used, 146.95 MB peak
+[2021.10.04-04.12.19:658][  0]LogMemory: Process Virtual Memory: 114.60 MB used, 114.60 MB peak
+[2021.10.04-04.12.19:658][  0]LogMemory: Physical Memory: 4284.07 MB used,  12034.46 MB free, 16318.54 MB total
+[2021.10.04-04.12.19:658][  0]LogMemory: Virtual Memory: 134205920.00 MB used,  11807.38 MB free, 134217728.00 MB total
+[2021.10.04-04.12.19:672][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.10.04-04.12.19:839][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.10.04-04.12.19:841][  0]LogInit: Overriding language with editor language configuration option (en).
+[2021.10.04-04.12.19:841][  0]LogInit: Using OS detected locale (ko-KR).
+[2021.10.04-04.12.20:035][  0]LogInit: Setting process to per monitor DPI aware
+[2021.10.04-04.12.20:088][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.10.04-04.12.20:108][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.10.04-04.12.20:108][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.10.04-04.12.20:336][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2021.10.04-04.12.20:342][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.10.04-04.12.20:342][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.10.04-04.12.20:342][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.10.04-04.12.20:342][  0]LogD3D11RHI: D3D11 adapters:
+[2021.10.04-04.12.20:476][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 SUPER' (Feature Level 11_0)
+[2021.10.04-04.12.20:476][  0]LogD3D11RHI:       5991/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.10.04-04.12.20:479][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.10.04-04.12.20:479][  0]LogD3D11RHI:       0/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.10.04-04.12.20:479][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.10.04-04.12.20:484][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.10.04-04.12.20:484][  0]LogD3D11RHI:     GPU DeviceId: 0x21c4 (for the marketing name, search the web for "GPU Device Id")
+[2021.10.04-04.12.20:484][  0]LogWindows: EnumDisplayDevices:
+[2021.10.04-04.12.20:485][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:1)
+[2021.10.04-04.12.20:486][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660 SUPER' (P:1 D:1)
+[2021.10.04-04.12.20:487][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0)
+[2021.10.04-04.12.20:488][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0)
+[2021.10.04-04.12.20:489][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.10.04-04.12.20:489][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 SUPER
+[2021.10.04-04.12.20:489][  0]LogD3D11RHI:   Driver Version: 461.09 (internal:27.21.14.6109, unified:461.09)
+[2021.10.04-04.12.20:489][  0]LogD3D11RHI:      Driver Date: 12-31-2020
+[2021.10.04-04.12.20:489][  0]LogRHI: Texture pool is 4193 MB (70% of 5991 MB)
+[2021.10.04-04.12.20:575][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.10.04-04.12.20:575][  0]LogD3D11RHI: Async texture creation enabled
+[2021.10.04-04.12.20:575][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.10.04-04.12.20:600][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.10.04-04.12.20:712][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.10.04-04.12.21:202][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.10.04-04.12.21:226][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.10.04-04.12.21:226][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.10.04-04.12.21:226][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.10.04-04.12.21:226][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.10.04-04.12.21:226][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.10.04-04.12.21:226][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.10.04-04.12.21:226][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.10.04-04.12.21:226][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.10.04-04.12.21:226][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.10.04-04.12.21:226][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.10.04-04.12.21:250][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.10.04-04.12.21:250][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.10.04-04.12.21:263][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.10.04-04.12.21:269][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.10.04-04.12.21:276][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.10.04-04.12.21:282][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.10.04-04.12.21:294][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.10.04-04.12.21:301][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.10.04-04.12.21:308][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.10.04-04.12.21:336][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.10.04-04.12.21:336][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.10.04-04.12.21:347][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.10.04-04.12.21:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.10.04-04.12.21:360][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.10.04-04.12.21:365][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.10.04-04.12.21:377][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.10.04-04.12.21:377][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.10.04-04.12.21:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.10.04-04.12.21:396][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.10.04-04.12.21:404][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.10.04-04.12.21:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.10.04-04.12.21:411][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.10.04-04.12.21:423][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.10.04-04.12.21:473][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2021.10.04-04.12.21:526][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.10.04-04.12.21:526][  0]LogShaderCompilers: Guid format shader working directory is 8 characters bigger than the processId version (C:/Users/kch/Desktop/team555/team_5/Intermediate/Shaders/WorkingDirectory/11064/).
+[2021.10.04-04.12.21:526][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kch/AppData/Local/Temp/UnrealShaderWorkingDir/4640EC584B054C85D04CF58EED5DFB6B/'.
+[2021.10.04-04.12.21:526][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.10.04-04.12.21:527][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.10.04-04.12.21:527][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.10.04-04.12.22:273][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.10.04-04.12.22:328][  0]LogDerivedDataCache: Loaded boot cache 0.06s 95MB C:/Users/kch/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.10.04-04.12.22:329][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/kch/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2021.10.04-04.12.22:329][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/kch/Desktop/team555/team_5/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.10.04-04.12.22:329][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.10.04-04.12.22:329][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/kch/Desktop/team555/team_5/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.04-04.12.22:329][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.10.04-04.12.22:344][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.10.04-04.12.22:344][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.04-04.12.22:344][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.10.04-04.12.22:355][  0]LogDerivedDataCache: Speed tests for C:/Users/kch/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.10.04-04.12.22:355][  0]LogDerivedDataCache: Display: Performance to C:/Users/kch/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.06ms. RandomReadSpeed=521.77MBs, RandomWriteSpeed=108.67MBs. Assigned SpeedClass 'Local'
+[2021.10.04-04.12.22:355][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kch/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.10.04-04.12.22:356][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.10.04-04.12.22:356][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.10.04-04.12.22:398][  0]LogSlate: Using FreeType 2.10.0
+[2021.10.04-04.12.22:399][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.10.04-04.12.22:427][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2021.10.04-04.12.22:649][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.04-04.12.22:649][  0]LogInit: Active device profile: [000002888D8AAD00][000002888D218DC0 49] Windows
+[2021.10.04-04.12.22:649][  0]LogInit: Profiles: [000002888D8AAD00][000002888D218DC0 49] Windows, [000002888D82E800][0000028884146F40 49] WindowsNoEditor, [000002888D8A9100][000002888414B0C0 49] WindowsServer, [000002888D82E900][0000028880BD1240 49] WindowsClient, [000002888D8AA800][0000028880BD53C0 49] IOS, [000002888D8A9200][0000028880BD9540 49] iPadAir, [000002888D822100][00000288806D56C0 49] iPadAir2, [000002888D7A0D00][000002888EA5D980 49] IPadPro, [000002888D7A0E00][00000288806D99C0 49] iPadAir3, [000002888D820600][000002888EA61B40 49] iPadAir4, [000002888D7A0200][000002888EA64140 49] iPadMini2, [000002888D823800][000002888EA702C0 49] iPadMini3, [000002888D7A2E00][000002888EA74440 49] iPadMini4, [000002888D822000][000002888EA785C0 49] iPadMini5, [000002888D82FD00][000002888486E840 49] iPhone6, [000002888D82FC00][000002888EA7C880 49] iPodTouch6, [000002888D7A0900][000002888060AAC0 49] iPhone7, [000002888D7A3600][0000028880606B00 49] iPodTouch7, [000002888D82D600][0000028880612C80 49] iPhone5S, [000002888D7A1600][000002888069AE00 49] iPhone6Plus, [000002888D82F400][000002888069EF80 49] iPhone6S, [000002888D7A1400][0000028880653100 49] iPhone6SPlus, [000002888D82E300][0000028880657280 49] iPhone7Plus, [000002888D7A2100][000002888065B400 49] iPhoneSE, [000002888D82E500][000002888065F580 49] iPhone8, [000002888D7A0B00][00000288806B7700 49] iPhone8Plus, [000002888D82C900][000002888E66B880 49] iPhoneX, [000002888D7A2800][00000288806C3A00 49] iPhoneXS, [000002888D82C200][00000288806C7B80 49] iPhoneXSMax, [000002888D7A0100][00000288806CA180 49] iPhoneXR, [000002888D82F500][00000288806CE300 49] iPhone11, [000002888D7A3100][0000028880B88480 49] iPhone11Pro, [000002888D82F900][0000028880B8C600 49] iPhone11ProMax, [000002888D7A3D00][0000028880B94780 49] iPhoneSE2, [000002888D82FB00][0000028880B98900 49] iPhone12Mini, [000002888D7A2F00][000002888060EA40 49] iPhone12, [000002888D82CD00][0000028880B9CB80 49] iPhone12Pro, [000002888D7A2900][0000028880BA0CC0 49] iPhone12ProMax, [000002888D82C400][0000028880BA8E40 49] iPadPro105, [000002888D7A2500][0000028880B84FC0 49] iPadPro129, [000002888D82C100][0000028880BB5140 49] iPadPro97, [000002888D7A2700][0000028880BB92C0 49] iPadPro2_129, [000002888D82C600][0000028880B91440 49] iPad5, [000002888D7A2C00][0000028880BBD5C0 49] iPad6, [000002888D82CE00][000002888EA6D740 49] iPad7, [000002888D7A1500][000002888D2118C0 49] iPad8, [000002888D82F700][000002888D215A40 49] iPadPro11, [000002888D7A3C00][000002888E72BBC0 49] iPadPro2_11, [000002888D82F200][000002888E72E1C0 49] iPadPro3_129, [000002888D7A2200][000002888E732340 49] iPadPro4_129, [000002888D82DF00][000002888E7364C0 49] AppleTV, [000002888D7A1A00][000002888E73A640 49] AppleTV4K, [000002888D82DA00][000002888E73E7C0 49] TVOS, [000002888D7A0F00][000002888EA44940 49] Mac, [000002888D82E200][000002888EA48AC0 49] MacClient, [000002888D7A1700][0000028880BA4C00 49] MacNoEditor, [000002888D82FE00][000002888EA4CD40 49] MacServer, [000002888D7A3400][000002888EA50E80 49] Linux, [000002888D82EB00][000002888EA54FC0 49] LinuxAArch64, [000002888D7A3200][000002888483F140 49] LinuxNoEditor, [000002888D82F000][00000288848432C0 49] LinuxAArch64NoEditor, [000002888D7A1E00][0000028884847440 49] LinuxClient, [000002888D82F600][000002888484B5C0 49] LinuxAArch64Client, [000002888D7A0300][000002888484F740 49] LinuxServer, [000002888D82D200][00000288848538C0 49] LinuxAArch64Server, [000002888D7A2000][0000028884857A40 49] Android, [000002888D820200][000002888485BBC0 49] Android_Low, [000002888D8A9E00][000002888485E1C0 49] Android_Mid, [000002888D823000][0000028884862340 49] Android_High, [000002888D8AA900][000002888EACE4C0 49] Android_Default, [000002888D821700][000002888EAD2640 49] Android_Adreno4xx, [000002888D8A8700][000002888EAD67C0 49] Android_Adreno5xx_Low, [000002888D820D00][000002888EADA940 49] Android_Adreno5xx, [000002888D8A9300][000002888EADEAC0 49] Android_Adreno6xx, [000002888D821000][000002888EAE2C40 49] Android_Adreno6xx_Vulkan, [000002888D8A8100][000002888EA58D80 49] Android_Mali_T6xx, [000002888D822E00][000002888EAE6EC0 49] Android_Mali_T7xx, [000002888D8AA500][000002888EAEB000 49] Android_Mali_T8xx, [000002888D823E00][000002888EAEF140 49] Android_Mali_G71, [000002888D8AB000][000002888EAF72C0 49] Android_Mali_G72, [000002888D823500][000002888EAFB440 49] Android_Mali_G72_Vulkan, [000002888D8A8B00][000002888EAFF5C0 49] Android_Mali_G76, [000002888D820C00][000002888EB03740 49] Android_Mali_G76_Vulkan, [000002888D8AAB00][000002888EB078C0 49] Android_Mali_G77, [000002888D821600][000002888E46BA40 49] Android_Mali_G77_Vulkan, [000002888D8AA100][000002888E46FBC0 49] Android_Mali_G78, [000002888D823600][000002888E4721C0 49] Android_Mali_G78_Vulkan, [000002888D8A9600][000002888E476340 49] Android_Mali_G710, [000002888D820F00][000002888E47A4C0 49] Android_Mali_G710_Vulkan, [000002888D8A9700][000002888E47E640 49] Android_Vulkan_SM5, [000002888D822600][000002888E4827C0 49] Android_PowerVR_G6xxx, [000002888D8A8600][000002888E486940 49] Android_PowerVR_GT7xxx, [000002888D822500][000002888E48AAC0 49] Android_PowerVR_GE8xxx, [000002888D8AAC00][000002888E48EC40 49] Android_PowerVR_GM9xxx, [000002888D7A3300][000002888E492DC0 49] Android_PowerVR_GM9xxx_Vulkan, [000002888D8A9C00][000002888E496F40 49] Android_TegraK1, [000002888D7A0800][000002888EAF3080 49] Android_Unknown_Vulkan, [000002888D8A8900][000002888E49B1C0 49] Lumin, [000002888D7A1000][000002888E49F300 49] Lumin_Desktop, [000002888D8AB200][000002888E4A7480 49] HoloLens, 
+[2021.10.04-04.12.22:790][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.10.04-04.12.22:790][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.10.04-04.12.22:790][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.10.04-04.12.22:790][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.10.04-04.12.22:790][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.10.04-04.12.22:815][  0]LogNetVersion: team_5 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 282539008)
+[2021.10.04-04.12.23:239][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.10.04-04.12.23:291][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.10.04-04.12.23:297][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2021.10.04-04.12.23:297][  0]LogUObjectAllocator: 4301856 out of 0 bytes used by permanent object pool.
+[2021.10.04-04.12.23:297][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.10.04-04.12.23:651][  0]LogPython: Using Python 3.7.7
+[2021.10.04-04.12.24:148][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 8C91756D413E76D9825882A9F6608C4E | Instance: 10BEB79F42CF1FCDDFA002BF93C1AEC3 (DESKTOP-L0QE7EB-11064).
+[2021.10.04-04.12.24:170][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.10.04-04.12.24:170][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.10.04-04.12.24:170][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.10.04-04.12.24:170][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.10.04-04.12.24:170][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.10.04-04.12.24:170][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.10.04-04.12.24:170][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.10.04-04.12.24:170][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.10.04-04.12.24:170][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.10.04-04.12.24:170][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.10.04-04.12.24:170][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.10.04-04.12.24:170][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.10.04-04.12.24:170][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.10.04-04.12.24:170][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.10.04-04.12.24:170][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.10.04-04.12.24:170][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.10.04-04.12.24:170][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.10.04-04.12.24:331][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.10.04-04.12.24:331][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.10.04-04.12.24:337][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.10.04-04.12.24:638][  0]SourceControl: Source control is disabled
+[2021.10.04-04.12.24:638][  0]SourceControl: Source control is disabled
+[2021.10.04-04.12.24:644][  0]SourceControl: Source control is disabled
+[2021.10.04-04.12.24:649][  0]SourceControl: Source control is disabled
+[2021.10.04-04.12.24:682][  0]SourceControl: Source control is disabled
+[2021.10.04-04.12.24:692][  0]LogUProjectInfo: Found projects:
+[2021.10.04-04.12.24:882][  0]LogOpenImageDenoise: OIDN starting up
+[2021.10.04-04.12.24:956][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.10.04-04.12.24:991][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.10.04-04.12.24:991][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.10.04-04.12.25:155][  0]LogCollectionManager: Loaded 0 collections in 0.000835 seconds
+[2021.10.04-04.12.25:157][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kch/Desktop/team555/team_5/Saved/Collections/' took 0.00s
+[2021.10.04-04.12.25:157][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kch/Desktop/team555/team_5/Content/Developers/kch/Collections/' took 0.00s
+[2021.10.04-04.12.25:158][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kch/Desktop/team555/team_5/Content/Collections/' took 0.00s
+[2021.10.04-04.12.25:185][  0]LogOcInput: OculusInput pre-init called
+[2021.10.04-04.12.25:373][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.10.04-04.12.25:373][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.10.04-04.12.25:373][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.10.04-04.12.25:373][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.10.04-04.12.25:373][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.10.04-04.12.25:373][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.10.04-04.12.25:373][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.10.04-04.12.25:373][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.10.04-04.12.25:373][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.10.04-04.12.25:373][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.10.04-04.12.25:373][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.10.04-04.12.25:373][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.10.04-04.12.25:373][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.10.04-04.12.25:373][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.10.04-04.12.25:373][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.10.04-04.12.25:466][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.10.04-04.12.25:466][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.10.04-04.12.25:466][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.10.04-04.12.25:466][  0]LogEngine: Initializing Engine...
+[2021.10.04-04.12.25:469][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2021.10.04-04.12.25:469][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.10.04-04.12.25:469][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.10.04-04.12.25:470][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.10.04-04.12.25:583][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.10.04-04.12.25:593][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.10.04-04.12.25:603][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.10.04-04.12.25:608][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2021.10.04-04.12.25:609][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2021.10.04-04.12.25:610][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.10.04-04.12.25:610][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.10.04-04.12.25:610][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.04-04.12.25:610][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.04-04.12.25:610][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.04-04.12.25:610][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.04-04.12.25:610][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.04-04.12.25:610][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.04-04.12.25:610][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.04-04.12.25:610][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.04-04.12.25:610][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.04-04.12.25:610][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.04-04.12.25:610][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.04-04.12.25:610][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.04-04.12.25:641][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.04-04.12.25:641][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.10.04-04.12.25:775][  0]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2021.10.04-04.12.25:778][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.04-04.12.25:781][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.04-04.12.25:781][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.04-04.12.25:782][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.04-04.12.25:782][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.04-04.12.25:782][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.04-04.12.25:783][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.04-04.12.25:783][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.04-04.12.25:783][  0]LogInit: FAudioDevice initialized.
+[2021.10.04-04.12.25:783][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.10.04-04.12.25:783][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.10.04-04.12.25:859][  0]LogDerivedDataCache: Saved boot cache 0.08s 95MB C:/Users/kch/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.10.04-04.12.25:860][  0]LogInit: Texture streaming: Enabled
+[2021.10.04-04.12.25:878][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.0-17155196+++UE4+Release-4.27
+[2021.10.04-04.12.25:886][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.10.04-04.12.25:886][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.10.04-04.12.25:894][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.10.04-04.12.25:922][  0]LogInit: Transaction tracking system initialized
+[2021.10.04-04.12.25:955][  0]BlueprintLog: New page: Editor Load
+[2021.10.04-04.12.26:045][  0]LocalizationService: Localization service is disabled
+[2021.10.04-04.12.26:084][  0]TimingProfiler: Initialize
+[2021.10.04-04.12.26:084][  0]TimingProfiler: OnSessionChanged
+[2021.10.04-04.12.26:084][  0]LoadingProfiler: Initialize
+[2021.10.04-04.12.26:084][  0]LoadingProfiler: OnSessionChanged
+[2021.10.04-04.12.26:084][  0]NetworkingProfiler: Initialize
+[2021.10.04-04.12.26:084][  0]NetworkingProfiler: OnSessionChanged
+[2021.10.04-04.12.26:084][  0]MemoryProfiler: Initialize
+[2021.10.04-04.12.26:084][  0]MemoryProfiler: OnSessionChanged
+[2021.10.04-04.12.26:253][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.10.04-04.12.26:253][  0]LogCook: Display: Mobile HDR setting 1
+[2021.10.04-04.12.26:523][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kch/Desktop/team555/team_5/Content/' took 0.01s
+[2021.10.04-04.12.26:770][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.10.04-04.12.26:771][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.10.04-04.12.26:771][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.10.04-04.12.26:771][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.10.04-04.12.26:771][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.10.04-04.12.26:771][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.10.04-04.12.26:771][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.10.04-04.12.26:771][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.10.04-04.12.26:771][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.10.04-04.12.26:771][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.10.04-04.12.26:771][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.10.04-04.12.26:771][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.10.04-04.12.26:771][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.10.04-04.12.26:771][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.10.04-04.12.26:771][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.10.04-04.12.26:771][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.10.04-04.12.26:771][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.10.04-04.12.26:771][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.10.04-04.12.26:771][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.10.04-04.12.26:777][  0]SourceControl: Source control is disabled
+[2021.10.04-04.12.26:777][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.976
+[2021.10.04-04.12.26:777][  0]Cmd: MAP LOAD FILE="C:/Users/kch/Desktop/team555/team_5/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.04-04.12.26:778][  0]LightingResults: New page: Lighting Build
+[2021.10.04-04.12.26:779][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.10.04-04.12.26:779][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.04-04.12.26:779][  0]MapCheck: New page: Map Check
+[2021.10.04-04.12.26:779][  0]LightingResults: New page: Lighting Build
+[2021.10.04-04.12.26:783][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.04-04.12.26:786][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.10.04-04.12.26:876][  0]LogLinker: Warning: [AssetLog] C:\Users\kch\Desktop\team555\team_5\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2021.10.04-04.12.26:877][  0]LogLinker: Warning: [AssetLog] C:\Users\kch\Desktop\team555\team_5\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2021.10.04-04.12.26:879][  0]LogLinker: Warning: [AssetLog] C:\Users\kch\Desktop\team555\team_5\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2021.10.04-04.12.26:889][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2021.10.04-04.12.26:890][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2021.10.04-04.12.26:893][  0]LogLinker: Warning: [AssetLog] C:\Users\kch\Desktop\team555\team_5\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2021.10.04-04.12.26:893][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2021.10.04-04.12.27:069][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.10.04-04.12.27:070][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.10.04-04.12.27:076][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.04-04.12.27:084][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.10.04-04.12.27:084][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.04-04.12.27:084][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.218ms to complete.
+[2021.10.04-04.12.27:084][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.307
+[2021.10.04-04.12.27:086][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.285
+[2021.10.04-04.12.27:233][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.04-04.12.27:239][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.04-04.12.27:245][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.04-04.12.27:250][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.04-04.12.27:266][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0085 seconds. Added 3822 classes and 928 folders.
+[2021.10.04-04.12.27:268][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.10.04-04.12.27:270][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.04-04.12.27:270][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.04-04.12.27:270][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.04-04.12.27:270][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.04-04.12.27:270][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2021.10.04-04.12.27:270][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.10.04-04.12.27:270][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.10.04-04.12.27:270][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.04-04.12.27:270][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.10.04-04.12.27:270][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.04-04.12.27:271][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2021.10.04-04.12.27:271][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.10.04-04.12.27:271][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.10.04-04.12.27:271][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.04-04.12.27:271][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.10.04-04.12.27:271][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.04-04.12.27:271][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2021.10.04-04.12.27:271][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.10.04-04.12.27:272][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.04-04.12.27:272][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.04-04.12.27:272][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.04-04.12.27:272][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.04-04.12.27:272][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/StarterContent.upack)
+[2021.10.04-04.12.27:272][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.10.04-04.12.27:273][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.10.04-04.12.27:273][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.04-04.12.27:273][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.10.04-04.12.27:273][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.04-04.12.27:273][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2021.10.04-04.12.27:273][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.10.04-04.12.27:274][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.10.04-04.12.27:274][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.04-04.12.27:274][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.10.04-04.12.27:274][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.04-04.12.27:274][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2021.10.04-04.12.27:274][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.10.04-04.12.27:274][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.10.04-04.12.27:275][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.04-04.12.27:275][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.10.04-04.12.27:275][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.04-04.12.27:275][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2021.10.04-04.12.27:275][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.10.04-04.12.27:275][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.10.04-04.12.27:275][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.04-04.12.27:275][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.10.04-04.12.27:275][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.04-04.12.27:275][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2021.10.04-04.12.27:275][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.10.04-04.12.27:276][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.04-04.12.27:276][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.04-04.12.27:276][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.04-04.12.27:276][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.04-04.12.27:276][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2021.10.04-04.12.27:276][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.10.04-04.12.27:277][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.10.04-04.12.27:277][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.04-04.12.27:277][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.10.04-04.12.27:277][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.04-04.12.27:277][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2021.10.04-04.12.27:277][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.10.04-04.12.27:278][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.10.04-04.12.27:278][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.04-04.12.27:278][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.10.04-04.12.27:278][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.04-04.12.27:278][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2021.10.04-04.12.27:278][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.10.04-04.12.27:279][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.04-04.12.27:279][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.04-04.12.27:279][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.04-04.12.27:279][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.04-04.12.27:279][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2021.10.04-04.12.27:279][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.10.04-04.12.27:279][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.04-04.12.27:279][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.04-04.12.27:280][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.04-04.12.27:280][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.04-04.12.27:280][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2021.10.04-04.12.27:280][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.10.04-04.12.27:280][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.04-04.12.27:280][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.04-04.12.27:280][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.04-04.12.27:280][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.04-04.12.27:280][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2021.10.04-04.12.27:280][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.10.04-04.12.27:281][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.10.04-04.12.27:281][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.04-04.12.27:281][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.10.04-04.12.27:281][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.04-04.12.27:281][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2021.10.04-04.12.27:281][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.10.04-04.12.27:282][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.04-04.12.27:282][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.04-04.12.27:282][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.04-04.12.27:282][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.04-04.12.27:282][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2021.10.04-04.12.27:282][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.10.04-04.12.27:283][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.10.04-04.12.27:283][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.04-04.12.27:283][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.10.04-04.12.27:283][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.04-04.12.27:283][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2021.10.04-04.12.27:283][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.10.04-04.12.27:283][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.04-04.12.27:283][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.04-04.12.27:283][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.04-04.12.27:283][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.04-04.12.27:283][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2021.10.04-04.12.27:283][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.10.04-04.12.27:284][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.04-04.12.27:284][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.04-04.12.27:284][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.04-04.12.27:284][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.04-04.12.27:284][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2021.10.04-04.12.27:284][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.10.04-04.12.27:285][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.04-04.12.27:285][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.04-04.12.27:285][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.04-04.12.27:285][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.04-04.12.27:285][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2021.10.04-04.12.27:285][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.10.04-04.12.27:286][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.04-04.12.27:286][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.04-04.12.27:286][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.04-04.12.27:286][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.04-04.12.27:286][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2021.10.04-04.12.27:286][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.10.04-04.12.27:286][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.04-04.12.27:286][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.04-04.12.27:287][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.04-04.12.27:287][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.04-04.12.27:287][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2021.10.04-04.12.27:287][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.10.04-04.12.27:287][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.10.04-04.12.27:287][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.04-04.12.27:287][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.10.04-04.12.27:287][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.04-04.12.27:287][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2021.10.04-04.12.27:287][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.10.04-04.12.27:288][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.04-04.12.27:288][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.04-04.12.27:288][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.04-04.12.27:288][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.04-04.12.27:288][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2021.10.04-04.12.27:288][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.10.04-04.12.27:289][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.04-04.12.27:289][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.04-04.12.27:289][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.04-04.12.27:289][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.04-04.12.27:289][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2021.10.04-04.12.27:289][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.10.04-04.12.27:290][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.10.04-04.12.27:290][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.04-04.12.27:290][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.10.04-04.12.27:290][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.04-04.12.27:290][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2021.10.04-04.12.27:290][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.10.04-04.12.27:363][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.10.04-04.12.27:364][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.10.04-04.12.27:445][  0]LogSlate: Took 0.000309 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.10.04-04.12.27:446][  0]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.10.04-04.12.27:447][  0]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.10.04-04.12.27:540][  0]LogRenderer: Reallocating scene render targets to support 1616x604 Format 10 NumSamples 1 (Frame:1).
+[2021.10.04-04.12.27:649][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.10.04-04.12.27:650][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.10.04-04.12.27:650][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.10.04-04.12.27:650][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.10.04-04.12.27:650][  0]LogLoad: (Engine Initialization) Total time: 9.85 seconds
+[2021.10.04-04.12.27:650][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.10.04-04.12.27:701][  0]LogAssetRegistry: Asset discovery search completed in 5.2751 seconds
+[2021.10.04-04.12.27:707][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.10.04-04.12.27:709][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.10.04-04.12.27:817][  0]LogRenderer: Reallocating scene render targets to support 1616x624 Format 10 NumSamples 1 (Frame:5).
+[2021.10.04-04.12.27:817][  0]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.10.04-04.12.27:917][  2]LogSlate: Took 0.000338 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.04-04.12.29:276][160]LogSlate: Window 'Message Log' being destroyed
+[2021.10.04-04.12.29:282][160]LogSlate: Window 'Message Log' being destroyed
+[2021.10.04-04.12.32:307][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.10.04-04.12.32:312][496]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.04-04.12.32:869][496]LogMaterial: Display: Missing cached shadermap for NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 54A99FF33B9953CD9C9A3CF90CB539D5519B677F), compiling. 
+[2021.10.04-04.12.32:870][496]LogMaterial: Warning: [AssetLog] C:\Users\kch\Desktop\team555\team_5\Content\house1\NewMaterial.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.04-04.12.32:870][496]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/house1/giwa_DefaultMaterial_OcclusionRoughnessMetallic.giwa_DefaultMaterial_OcclusionRoughnessMetallic
+[2021.10.04-04.12.32:928][496]LogAssetEditorSubsystem: Opening Asset editor for World /Game/team_5_2.team_5_2
+[2021.10.04-04.12.32:928][496]Cmd: MAP LOAD FILE="C:/Users/kch/Desktop/team555/team_5/Content/team_5_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.04-04.12.32:928][496]LightingResults: New page: Lighting Build
+[2021.10.04-04.12.32:928][496]LoadErrors: New page: Loading map: team_5_2.umap
+[2021.10.04-04.12.32:970][496]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.04-04.12.32:970][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.04-04.12.32:970][496]MapCheck: New page: Map Check
+[2021.10.04-04.12.32:970][496]LightingResults: New page: Lighting Build
+[2021.10.04-04.12.32:979][496]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.04-04.12.32:981][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.10.04-04.12.32:982][496]LogAudio: Display: Audio Device (ID: 1) registered with world 'team_5_2'.
+[2021.10.04-04.12.32:984][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.ganpan_32.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.100 Z=0.000
+[2021.10.04-04.12.32:984][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:984][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:984][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.ganpan2.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.100 Z=0.000
+[2021.10.04-04.12.32:984][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:985][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:996][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.159.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.156 Y=0.156 Z=0.000
+[2021.10.04-04.12.32:996][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:996][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:996][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.160.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.156 Y=0.156 Z=0.000
+[2021.10.04-04.12.32:996][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:996][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:996][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.161.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.969 Y=0.281 Z=0.000
+[2021.10.04-04.12.32:996][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:996][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:996][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.162.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.969 Y=0.281 Z=0.000
+[2021.10.04-04.12.32:996][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:996][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:997][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.163.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.969 Y=0.281 Z=0.000
+[2021.10.04-04.12.32:997][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:997][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:997][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.164.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.969 Y=0.281 Z=0.000
+[2021.10.04-04.12.32:997][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:997][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:997][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.165.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.969 Y=0.281 Z=0.000
+[2021.10.04-04.12.32:997][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:997][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:997][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.92.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.469 Y=0.156 Z=0.000
+[2021.10.04-04.12.32:997][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:997][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:997][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.100.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.469 Y=0.156 Z=0.000
+[2021.10.04-04.12.32:997][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:997][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:997][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.101.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.156 Z=0.000
+[2021.10.04-04.12.32:997][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:997][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:997][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.103.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.469 Y=0.156 Z=0.000
+[2021.10.04-04.12.32:997][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:997][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:997][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.104.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.469 Y=0.156 Z=0.000
+[2021.10.04-04.12.32:997][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:997][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:997][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.102_32.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.156 Z=0.000
+[2021.10.04-04.12.32:997][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:997][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:997][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.105.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.156 Z=0.000
+[2021.10.04-04.12.32:997][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:997][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:997][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.106.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.156 Z=0.000
+[2021.10.04-04.12.32:997][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:997][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.107.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.156 Z=0.000
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.108.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.156 Z=0.000
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.109.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.969 Y=0.156 Z=0.000
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.110.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.969 Y=0.156 Z=0.000
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.111.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.790 Y=0.152 Z=0.000
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.112.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.790 Y=0.152 Z=0.000
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.113.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.790 Y=0.152 Z=0.000
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.114.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.790 Y=0.152 Z=0.000
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.115.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.790 Y=0.152 Z=0.000
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.116.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.790 Y=0.152 Z=0.000
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.117.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.790 Y=0.152 Z=0.000
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.118.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.790 Y=0.152 Z=0.000
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.119.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.790 Y=0.152 Z=0.000
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.120_3.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.188 Y=0.406 Z=0.000
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:998][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.121.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.188 Y=0.406 Z=0.000
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.122.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.781 Y=0.344 Z=0.000
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.123.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.762 Y=0.164 Z=0.000
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.124.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.762 Y=0.164 Z=0.000
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.125.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.781 Y=0.875 Z=0.000
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.126.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.762 Y=0.164 Z=0.000
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.130.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.156 Y=0.156 Z=0.000
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.131.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.156 Y=0.156 Z=0.000
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.132.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.156 Y=0.156 Z=0.000
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.133.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.156 Y=0.156 Z=0.000
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.134.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.156 Y=0.156 Z=0.000
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.135.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.156 Y=0.156 Z=0.000
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.136.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.156 Y=0.156 Z=0.000
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.137.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.156 Y=0.156 Z=0.000
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.138.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.156 Y=0.156 Z=0.000
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.32:999][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.139.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.156 Y=0.156 Z=0.000
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.140.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.156 Y=0.156 Z=0.000
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.141.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.156 Y=0.156 Z=0.000
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.142.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.156 Y=0.156 Z=0.000
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.143.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.156 Y=0.156 Z=0.000
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.127_43.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.188 Y=0.406 Z=0.000
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.144.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.756 Y=0.662 Z=0.000
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.146.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.062 Y=0.156 Z=0.000
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.147.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.062 Y=0.156 Z=0.000
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.148.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.062 Y=0.156 Z=0.000
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.149.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.062 Y=0.156 Z=0.000
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.150.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.062 Y=0.156 Z=0.000
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.151.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.062 Y=0.156 Z=0.000
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.152.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.062 Y=0.156 Z=0.000
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.33:000][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.153.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.062 Y=0.156 Z=0.000
+[2021.10.04-04.12.33:001][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.33:001][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.33:001][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.154.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.062 Y=0.156 Z=0.000
+[2021.10.04-04.12.33:001][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.33:001][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.33:001][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.155.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.062 Y=0.156 Z=0.000
+[2021.10.04-04.12.33:001][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.33:001][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.33:001][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.145_47.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.188 Y=0.406 Z=0.000
+[2021.10.04-04.12.33:001][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.33:001][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.33:001][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.156.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.762 Y=0.403 Z=0.000
+[2021.10.04-04.12.33:001][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.33:001][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.33:001][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.129_50.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.762 Y=0.164 Z=0.000
+[2021.10.04-04.12.33:001][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.33:001][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.33:001][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.157.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.762 Y=0.164 Z=0.000
+[2021.10.04-04.12.33:001][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.33:001][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.33:001][496]LogPhysics: Warning: Scale for /Game/team_5_2.team_5_2:PersistentLevel.158.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.762 Y=0.164 Z=0.000
+[2021.10.04-04.12.33:001][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.04-04.12.33:001][496]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.04-04.12.33:032][496]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.04-04.12.33:032][496]LogAIModule: Creating AISystem for world team_5_2
+[2021.10.04-04.12.33:045][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.10.04-04.12.33:049][496]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.04-04.12.33:049][496]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.236ms to complete.
+[2021.10.04-04.12.33:049][496]LogFileHelpers: Loading map 'team_5_2' took 0.121
+[2021.10.04-04.12.36:365][807]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.04-04.12.41:433][401]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2021.10.04-04.12.52:041][593]LogEditorViewport: Clicking on Actor (double click): BP_Sky_Sphere_C (Sky Sphere4)
+[2021.10.04-04.12.52:499][644]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere4)
+[2021.10.04-04.12.54:931][932]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere3)
+[2021.10.04-04.12.54:992][937]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2021.10.04-04.13.01:417][688]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2021.10.04-04.14.23:870][177]LogRenderer: Reallocating scene render targets to support 1616x652 Format 10 NumSamples 1 (Frame:10423).
+[2021.10.04-04.14.24:254][194]LogSlate: Took 0.001526 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.10.04-04.21.10:750][279]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.10.04-04.21.10:767][279]LogContentBrowser: Creating deferred item: NewFolder
+[2021.10.04-04.21.14:329][664]LogContentBrowser: Attempting asset rename: NewFolder -> kanpan
+[2021.10.04-04.21.14:329][664]LogContentBrowser: End creating deferred item NewFolder
+[2021.10.04-04.21.19:649][ 51]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\kch\Desktop\간판\kanpan.fbx)
+[2021.10.04-04.21.19:786][ 51]LogFbx: Loading FBX Scene from C:\Users\kch\Desktop\간판\kanpan.fbx
+[2021.10.04-04.21.19:809][ 51]LogFbx: FBX Scene Loaded Succesfully
+[2021.10.04-04.21.21:052][ 51]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.10.04-04.21.21:085][ 51]LogMaterial: Display: Material /Game/kanpan/Material__25.Material__25 needed to have new flag set bUsedWithSkeletalMesh !
+[2021.10.04-04.21.21:086][ 51]LogMaterial: Display: Missing cached shadermap for Material__25 in PCD3D_SM5, Default, SM5 (DDC key hash: 516DBEB7770AA6EA39D58966A90AC731EADBB911), compiling. 
+[2021.10.04-04.21.21:134][ 51]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.10.04-04.21.21:135][ 51]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\Hong\Desktop\작업\XR그래픽아티스트교육\충무로\ganpan\texture\Ganpan_low_16 - Default_BaseColor.png
+[2021.10.04-04.21.21:137][ 51]LogMaterial: Display: Missing cached shadermap for Material__25 in PCD3D_SM5, Default, SM5 (DDC key hash: DC7F53525052E473398D6560AFB72D77BA64D873), compiling. 
+[2021.10.04-04.21.21:142][ 51]LogFbx: Triangulating skeletal mesh P1_low
+[2021.10.04-04.21.21:145][ 51]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.10.04-04.21.21:156][ 51]LogSkeletalMesh: Section 0: Material=0, 36 triangles
+[2021.10.04-04.21.21:166][ 51]LogSkeletalMesh: Building Skeletal Mesh kanpan_P1_low...
+[2021.10.04-04.21.21:166][ 51]LogSkeletalMesh: Section 0: Material=0, 36 triangles
+[2021.10.04-04.21.21:167][ 51]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/kanpan/kanpan.kanpan_P1_low
+[2021.10.04-04.21.21:170][ 51]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.10.04-04.21.21:170][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.04-04.21.21:188][ 51]LogFbx: Triangulating skeletal mesh P7_low
+[2021.10.04-04.21.21:189][ 51]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.10.04-04.21.21:190][ 51]LogSkeletalMesh: Section 0: Material=0, 44 triangles
+[2021.10.04-04.21.21:191][ 51]LogSkeletalMesh: Building Skeletal Mesh kanpan_P7_low...
+[2021.10.04-04.21.21:192][ 51]LogSkeletalMesh: Section 0: Material=0, 44 triangles
+[2021.10.04-04.21.21:192][ 51]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/kanpan/kanpan.kanpan_P7_low
+[2021.10.04-04.21.21:196][ 51]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.10.04-04.21.21:196][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.04-04.21.21:199][ 51]LogFbx: Triangulating skeletal mesh P8_low
+[2021.10.04-04.21.21:202][ 51]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.10.04-04.21.21:205][ 51]LogSkeletalMesh: Section 0: Material=0, 150 triangles
+[2021.10.04-04.21.21:206][ 51]LogSkeletalMesh: Building Skeletal Mesh kanpan_P8_low...
+[2021.10.04-04.21.21:209][ 51]LogSkeletalMesh: Section 0: Material=0, 150 triangles
+[2021.10.04-04.21.21:209][ 51]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/kanpan/kanpan.kanpan_P8_low
+[2021.10.04-04.21.21:213][ 51]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.10.04-04.21.21:213][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.04-04.21.21:216][ 51]LogFbx: Triangulating skeletal mesh P9_low
+[2021.10.04-04.21.21:227][ 51]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.10.04-04.21.21:239][ 51]LogSkeletalMesh: Section 0: Material=0, 556 triangles
+[2021.10.04-04.21.21:240][ 51]LogSkeletalMesh: Building Skeletal Mesh kanpan_P9_low...
+[2021.10.04-04.21.21:251][ 51]LogSkeletalMesh: Section 0: Material=0, 556 triangles
+[2021.10.04-04.21.21:252][ 51]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/kanpan/kanpan.kanpan_P9_low
+[2021.10.04-04.21.21:255][ 51]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.10.04-04.21.21:256][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.04-04.21.21:259][ 51]LogFbx: Triangulating skeletal mesh P10_low
+[2021.10.04-04.21.21:264][ 51]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.10.04-04.21.21:287][ 51]LogSkeletalMesh: Section 0: Material=0, 276 triangles
+[2021.10.04-04.21.21:288][ 51]LogSkeletalMesh: Building Skeletal Mesh kanpan_P10_low...
+[2021.10.04-04.21.21:296][ 51]LogSkeletalMesh: Section 0: Material=0, 276 triangles
+[2021.10.04-04.21.21:296][ 51]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/kanpan/kanpan.kanpan_P10_low
+[2021.10.04-04.21.21:299][ 51]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.10.04-04.21.21:299][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.04-04.21.21:302][ 51]LogFbx: Triangulating skeletal mesh P11_low
+[2021.10.04-04.21.21:307][ 51]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.10.04-04.21.21:312][ 51]LogSkeletalMesh: Section 0: Material=0, 224 triangles
+[2021.10.04-04.21.21:313][ 51]LogSkeletalMesh: Building Skeletal Mesh kanpan_P11_low...
+[2021.10.04-04.21.21:318][ 51]LogSkeletalMesh: Section 0: Material=0, 224 triangles
+[2021.10.04-04.21.21:319][ 51]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/kanpan/kanpan.kanpan_P11_low
+[2021.10.04-04.21.21:322][ 51]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.10.04-04.21.21:322][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.04-04.21.21:325][ 51]LogFbx: Triangulating skeletal mesh P12_low
+[2021.10.04-04.21.21:325][ 51]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.10.04-04.21.21:326][ 51]LogSkeletalMesh: Section 0: Material=0, 12 triangles
+[2021.10.04-04.21.21:327][ 51]LogSkeletalMesh: Building Skeletal Mesh kanpan_P12_low...
+[2021.10.04-04.21.21:327][ 51]LogSkeletalMesh: Section 0: Material=0, 12 triangles
+[2021.10.04-04.21.21:327][ 51]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/kanpan/kanpan.kanpan_P12_low
+[2021.10.04-04.21.21:330][ 51]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.10.04-04.21.21:330][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.04-04.21.21:333][ 51]LogFbx: Triangulating skeletal mesh P13_low
+[2021.10.04-04.21.21:335][ 51]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.10.04-04.21.21:337][ 51]LogSkeletalMesh: Section 0: Material=0, 84 triangles
+[2021.10.04-04.21.21:338][ 51]LogSkeletalMesh: Building Skeletal Mesh kanpan_P13_low...
+[2021.10.04-04.21.21:339][ 51]LogSkeletalMesh: Section 0: Material=0, 84 triangles
+[2021.10.04-04.21.21:339][ 51]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/kanpan/kanpan.kanpan_P13_low
+[2021.10.04-04.21.21:343][ 51]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.10.04-04.21.21:343][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.04-04.21.21:346][ 51]LogFbx: Triangulating skeletal mesh P14_low
+[2021.10.04-04.21.21:346][ 51]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.10.04-04.21.21:346][ 51]LogSkeletalMesh: Section 0: Material=0, 12 triangles
+[2021.10.04-04.21.21:347][ 51]LogSkeletalMesh: Building Skeletal Mesh kanpan_P14_low...
+[2021.10.04-04.21.21:347][ 51]LogSkeletalMesh: Section 0: Material=0, 12 triangles
+[2021.10.04-04.21.21:348][ 51]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/kanpan/kanpan.kanpan_P14_low
+[2021.10.04-04.21.21:355][ 51]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.10.04-04.21.21:355][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.04-04.21.21:358][ 51]LogFbx: Triangulating skeletal mesh P15_low
+[2021.10.04-04.21.21:358][ 51]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.10.04-04.21.21:358][ 51]LogSkeletalMesh: Section 0: Material=0, 2 triangles
+[2021.10.04-04.21.21:359][ 51]LogSkeletalMesh: Building Skeletal Mesh kanpan_P15_low...
+[2021.10.04-04.21.21:359][ 51]LogSkeletalMesh: Section 0: Material=0, 2 triangles
+[2021.10.04-04.21.21:359][ 51]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/kanpan/kanpan.kanpan_P15_low
+[2021.10.04-04.21.21:363][ 51]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.10.04-04.21.21:363][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.04-04.21.21:365][ 51]LogFbx: Triangulating skeletal mesh P16_low
+[2021.10.04-04.21.21:366][ 51]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.10.04-04.21.21:367][ 51]LogSkeletalMesh: Section 0: Material=0, 28 triangles
+[2021.10.04-04.21.21:368][ 51]LogSkeletalMesh: Building Skeletal Mesh kanpan_P16_low...
+[2021.10.04-04.21.21:368][ 51]LogSkeletalMesh: Section 0: Material=0, 28 triangles
+[2021.10.04-04.21.21:368][ 51]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/kanpan/kanpan.kanpan_P16_low
+[2021.10.04-04.21.21:372][ 51]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.10.04-04.21.21:372][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.04-04.21.21:375][ 51]LogFbx: Triangulating skeletal mesh P17_low
+[2021.10.04-04.21.21:375][ 51]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.10.04-04.21.21:375][ 51]LogSkeletalMesh: Section 0: Material=0, 12 triangles
+[2021.10.04-04.21.21:376][ 51]LogSkeletalMesh: Building Skeletal Mesh kanpan_P17_low...
+[2021.10.04-04.21.21:377][ 51]LogSkeletalMesh: Section 0: Material=0, 12 triangles
+[2021.10.04-04.21.21:377][ 51]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/kanpan/kanpan.kanpan_P17_low
+[2021.10.04-04.21.21:380][ 51]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.10.04-04.21.21:380][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.04-04.21.21:382][ 51]LogFbx: Triangulating skeletal mesh P18_low
+[2021.10.04-04.21.21:383][ 51]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.10.04-04.21.21:383][ 51]LogSkeletalMesh: Section 0: Material=0, 12 triangles
+[2021.10.04-04.21.21:384][ 51]LogSkeletalMesh: Building Skeletal Mesh kanpan_P18_low...
+[2021.10.04-04.21.21:384][ 51]LogSkeletalMesh: Section 0: Material=0, 12 triangles
+[2021.10.04-04.21.21:384][ 51]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/kanpan/kanpan.kanpan_P18_low
+[2021.10.04-04.21.21:388][ 51]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.10.04-04.21.21:388][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.04-04.21.21:399][ 51]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.10.04-04.21.21:399][ 51]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.10.04-04.21.21:399][ 51]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.10.04-04.21.21:399][ 51]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.10.04-04.21.21:399][ 51]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.10.04-04.21.21:399][ 51]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.10.04-04.21.21:399][ 51]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.10.04-04.21.21:399][ 51]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.10.04-04.21.21:399][ 51]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.10.04-04.21.21:399][ 51]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.10.04-04.21.21:399][ 51]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.10.04-04.21.21:399][ 51]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.10.04-04.21.21:399][ 51]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.10.04-04.21.21:399][ 51]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.10.04-04.21.21:745][ 55]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.10.04-04.21.21:745][ 55]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.10.04-04.21.21:745][ 55]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.10.04-04.21.22:004][ 59]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.10.04-04.21.22:004][ 59]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.10.04-04.21.22:004][ 59]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.10.04-04.21.22:024][ 59]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2021.10.04-04.21.22:680][ 98]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2021.10.04-04.21.22:680][ 98]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.10.04-04.21.22:686][ 99]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.10.04-04.21.22:686][ 99]LogShaderCompilers: Display: Total job queries 64, among them cache hits 0 (0.00%)
+[2021.10.04-04.21.22:686][ 99]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 2 distinct outputs (100.00%)
+[2021.10.04-04.21.22:686][ 99]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2021.10.04-04.21.22:686][ 99]LogShaderCompilers: Display: ================================================
+[2021.10.04-04.21.22:931][111]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2021.10.04-04.21.22:932][111]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.10.04-04.21.25:622][270]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.10.04-04.21.25:622][270]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2021.10.04-04.21.25:786][283]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.10.04-04.21.25:786][283]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.10.04-04.21.26:167][312]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.10.04-04.21.26:167][312]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.10.04-04.21.35:750][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.10.04-04.21.37:970][ 69]LogSlate: Window 'Delete Assets' being destroyed
+[2021.10.04-04.21.40:387][314]LogSlate: Window 'Message Log' being destroyed
+[2021.10.04-04.21.40:392][314]LogSlate: Window 'Message Log' being destroyed
+[2021.10.04-04.22.10:571][ 57]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\kch\Desktop\간판\KakaoTalk_20211004_100823406.png)
+[2021.10.04-04.22.10:874][ 57]LogTexture: Display: Building textures: KakaoTalk_20211004_100823406 (OODLE_AutoDXT, 4096X4096)
+[2021.10.04-04.22.11:481][ 57]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.04-04.22.11:481][ 57]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.04-04.22.11:481][ 57]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.04-04.22.15:147][151]LogSlate: Took 0.013008 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.10.04-04.22.17:648][344]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pan_2)
+[2021.10.04-04.22.19:110][516]Cmd: DELETE
+[2021.10.04-04.22.19:110][516]Cmd: ACTOR DELETE
+[2021.10.04-04.22.19:160][516]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.04-04.22.19:165][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.10.04-04.22.19:169][516]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2021.10.04-04.22.29:557][652]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_0. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2021.10.04-04.22.30:315][736]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_1. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2021.10.04-04.22.46:388][603]Cmd: DELETE
+[2021.10.04-04.22.46:388][603]Cmd: ACTOR DELETE
+[2021.10.04-04.22.46:399][603]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2021.10.04-04.22.46:404][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.10.04-04.22.46:405][603]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2021.10.04-04.22.52:913][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.10.04-04.22.54:184][303]LogSlate: Window 'Delete Assets' being destroyed
+[2021.10.04-04.22.54:211][303]LogUObjectGlobals: Force Deleting 41 Package(s):
+	Asset Name: /Game/kanpan/kanpan_P10_low_PhysicsAsset.kanpan_P10_low_PhysicsAsset
+	Asset Name: /Game/kanpan/kanpan_P10_low_Skeleton.kanpan_P10_low_Skeleton
+	Asset Name: /Game/kanpan/kanpan.kanpan_P10_low
+	Asset Name: /Game/kanpan/kanpan_P9_low_PhysicsAsset.kanpan_P9_low_PhysicsAsset
+	Asset Name: /Game/kanpan/kanpan_P9_low_Skeleton.kanpan_P9_low_Skeleton
+	Asset Name: /Game/kanpan/kanpan.kanpan_P9_low
+	Asset Name: /Game/kanpan/kanpan_P8_low_PhysicsAsset.kanpan_P8_low_PhysicsAsset
+	Asset Name: /Game/kanpan/kanpan_P8_low_Skeleton.kanpan_P8_low_Skeleton
+	Asset Name: /Game/kanpan/kanpan.kanpan_P8_low
+	Asset Name: /Game/kanpan/kanpan_P7_low_PhysicsAsset.kanpan_P7_low_PhysicsAsset
+[2021.10.04-04.23.00:222][303]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2021.10.04-04.23.02:215][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.10.04-04.23.06:523][602]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.10.04-04.23.06:553][602]LogContentBrowser: Creating deferred item: NewFolder
+[2021.10.04-04.23.10:381][995]LogContentBrowser: Attempting asset rename: NewFolder -> kanpan
+[2021.10.04-04.23.10:381][995]LogContentBrowser: End creating deferred item NewFolder
+[2021.10.04-04.23.37:455][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.10.04-04.23.37:496][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/team_5_2" FILE="C:/Users/kch/Desktop/team555/team_5/Saved/Autosaves/Game/team_5_2_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.10.04-04.23.37:915][440]LogSavePackage: Moving 'C:/Users/kch/Desktop/team555/team_5/Saved/team_5_2_Auto1F8A63F9A474CEB63C59B58AE5D088203.tmp' to 'C:/Users/kch/Desktop/team555/team_5/Saved/Autosaves/Game/team_5_2_Auto1.umap'
+[2021.10.04-04.23.37:919][440]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/team_5_2' took 0.470
+[2021.10.04-04.23.37:919][440]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.470
+[2021.10.04-04.23.37:920][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/kanpan/kanpan" FILE="C:/Users/kch/Desktop/team555/team_5/Saved/Autosaves/Game/kanpan/kanpan_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.10.04-04.23.37:921][440]LogSavePackage: Moving 'C:/Users/kch/Desktop/team555/team_5/Saved/kanpan_Auto173449AAC43A22A7920122485BF0CF478.tmp' to 'C:/Users/kch/Desktop/team555/team_5/Saved/Autosaves/Game/kanpan/kanpan_Auto1.uasset'
+[2021.10.04-04.23.37:922][440]LogFileHelpers: Auto-saving content packages took 0.002
+[2021.10.04-04.25.03:054][984]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\kch\Desktop\간판\kanpan_2.fbx)
+[2021.10.04-04.25.03:063][984]LogFbx: Loading FBX Scene from C:\Users\kch\Desktop\간판\kanpan_2.fbx
+[2021.10.04-04.25.03:076][984]LogFbx: FBX Scene Loaded Succesfully
+[2021.10.04-04.25.04:805][984]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.10.04-04.25.04:817][984]LogMaterial: Display: Material /Game/kanpan/Material__25.Material__25 needed to have new flag set bUsedWithSkeletalMesh !
+[2021.10.04-04.25.04:818][984]LogMaterial: Display: Missing cached shadermap for Material__25 in PCD3D_SM5, Default, SM5 (DDC key hash: B728A6591FE80E47E9DAF168D973192C4BEF4851), compiling. 
+[2021.10.04-04.25.04:840][984]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.10.04-04.25.04:841][984]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\Hong\Desktop\작업\XR그래픽아티스트교육\충무로\ganpan\texture\Ganpan_low_16 - Default_BaseColor.png
+[2021.10.04-04.25.04:843][984]LogMaterial: Display: Missing cached shadermap for Material__25 in PCD3D_SM5, Default, SM5 (DDC key hash: A63FC56A7D9910941F1EAA55F3AB184FB6AA3D02), compiling. 
+[2021.10.04-04.25.04:848][984]LogFbx: Triangulating skeletal mesh P1_low
+[2021.10.04-04.25.04:849][984]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.10.04-04.25.04:850][984]LogSkeletalMesh: Section 0: Material=0, 36 triangles
+[2021.10.04-04.25.04:860][984]LogSkeletalMesh: Building Skeletal Mesh kanpan_2_P1_low...
+[2021.10.04-04.25.04:860][984]LogSkeletalMesh: Section 0: Material=0, 36 triangles
+[2021.10.04-04.25.04:861][984]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/kanpan/kanpan_2.kanpan_2_P1_low
+[2021.10.04-04.25.04:865][984]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.10.04-04.25.04:865][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.04-04.25.04:869][984]LogFbx: Triangulating skeletal mesh P7_low
+[2021.10.04-04.25.04:870][984]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.10.04-04.25.04:871][984]LogSkeletalMesh: Section 0: Material=0, 44 triangles
+[2021.10.04-04.25.04:872][984]LogSkeletalMesh: Building Skeletal Mesh kanpan_2_P7_low...
+[2021.10.04-04.25.04:872][984]LogSkeletalMesh: Section 0: Material=0, 44 triangles
+[2021.10.04-04.25.04:872][984]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/kanpan/kanpan_2.kanpan_2_P7_low
+[2021.10.04-04.25.04:876][984]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.10.04-04.25.04:876][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.04-04.25.04:880][984]LogFbx: Triangulating skeletal mesh P8_low
+[2021.10.04-04.25.04:883][984]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.10.04-04.25.04:887][984]LogSkeletalMesh: Section 0: Material=0, 150 triangles
+[2021.10.04-04.25.04:888][984]LogSkeletalMesh: Building Skeletal Mesh kanpan_2_P8_low...
+[2021.10.04-04.25.04:891][984]LogSkeletalMesh: Section 0: Material=0, 150 triangles
+[2021.10.04-04.25.04:891][984]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/kanpan/kanpan_2.kanpan_2_P8_low
+[2021.10.04-04.25.04:894][984]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.10.04-04.25.04:894][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.04-04.25.04:898][984]LogFbx: Triangulating skeletal mesh P9_low
+[2021.10.04-04.25.04:911][984]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.10.04-04.25.04:923][984]LogSkeletalMesh: Section 0: Material=0, 556 triangles
+[2021.10.04-04.25.04:924][984]LogSkeletalMesh: Building Skeletal Mesh kanpan_2_P9_low...
+[2021.10.04-04.25.04:936][984]LogSkeletalMesh: Section 0: Material=0, 556 triangles
+[2021.10.04-04.25.04:937][984]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/kanpan/kanpan_2.kanpan_2_P9_low
+[2021.10.04-04.25.04:941][984]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.10.04-04.25.04:941][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.04-04.25.04:945][984]LogFbx: Triangulating skeletal mesh P10_low
+[2021.10.04-04.25.04:951][984]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.10.04-04.25.04:959][984]LogSkeletalMesh: Section 0: Material=0, 276 triangles
+[2021.10.04-04.25.04:960][984]LogSkeletalMesh: Building Skeletal Mesh kanpan_2_P10_low...
+[2021.10.04-04.25.04:967][984]LogSkeletalMesh: Section 0: Material=0, 276 triangles
+[2021.10.04-04.25.04:968][984]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/kanpan/kanpan_2.kanpan_2_P10_low
+[2021.10.04-04.25.04:971][984]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.10.04-04.25.04:972][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.04-04.25.04:976][984]LogFbx: Triangulating skeletal mesh P11_low
+[2021.10.04-04.25.04:981][984]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.10.04-04.25.04:986][984]LogSkeletalMesh: Section 0: Material=0, 224 triangles
+[2021.10.04-04.25.04:987][984]LogSkeletalMesh: Building Skeletal Mesh kanpan_2_P11_low...
+[2021.10.04-04.25.04:992][984]LogSkeletalMesh: Section 0: Material=0, 224 triangles
+[2021.10.04-04.25.04:993][984]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/kanpan/kanpan_2.kanpan_2_P11_low
+[2021.10.04-04.25.04:996][984]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.10.04-04.25.04:996][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.04-04.25.05:000][984]LogFbx: Triangulating skeletal mesh P12_low
+[2021.10.04-04.25.05:001][984]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.10.04-04.25.05:001][984]LogSkeletalMesh: Section 0: Material=0, 12 triangles
+[2021.10.04-04.25.05:002][984]LogSkeletalMesh: Building Skeletal Mesh kanpan_2_P12_low...
+[2021.10.04-04.25.05:003][984]LogSkeletalMesh: Section 0: Material=0, 12 triangles
+[2021.10.04-04.25.05:003][984]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/kanpan/kanpan_2.kanpan_2_P12_low
+[2021.10.04-04.25.05:008][984]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.10.04-04.25.05:008][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.04-04.25.05:012][984]LogFbx: Triangulating skeletal mesh P13_low
+[2021.10.04-04.25.05:014][984]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.10.04-04.25.05:015][984]LogSkeletalMesh: Section 0: Material=0, 84 triangles
+[2021.10.04-04.25.05:016][984]LogSkeletalMesh: Building Skeletal Mesh kanpan_2_P13_low...
+[2021.10.04-04.25.05:060][984]LogSkeletalMesh: Section 0: Material=0, 84 triangles
+[2021.10.04-04.25.05:060][984]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/kanpan/kanpan_2.kanpan_2_P13_low
+[2021.10.04-04.25.05:063][984]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.10.04-04.25.05:063][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.04-04.25.05:067][984]LogFbx: Triangulating skeletal mesh P14_low
+[2021.10.04-04.25.05:067][984]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.10.04-04.25.05:068][984]LogSkeletalMesh: Section 0: Material=0, 12 triangles
+[2021.10.04-04.25.05:069][984]LogSkeletalMesh: Building Skeletal Mesh kanpan_2_P14_low...
+[2021.10.04-04.25.05:069][984]LogSkeletalMesh: Section 0: Material=0, 12 triangles
+[2021.10.04-04.25.05:069][984]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/kanpan/kanpan_2.kanpan_2_P14_low
+[2021.10.04-04.25.05:072][984]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.10.04-04.25.05:072][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.04-04.25.05:076][984]LogFbx: Triangulating skeletal mesh P15_low
+[2021.10.04-04.25.05:076][984]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.10.04-04.25.05:076][984]LogSkeletalMesh: Section 0: Material=0, 2 triangles
+[2021.10.04-04.25.05:077][984]LogSkeletalMesh: Building Skeletal Mesh kanpan_2_P15_low...
+[2021.10.04-04.25.05:077][984]LogSkeletalMesh: Section 0: Material=0, 2 triangles
+[2021.10.04-04.25.05:077][984]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/kanpan/kanpan_2.kanpan_2_P15_low
+[2021.10.04-04.25.05:080][984]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.10.04-04.25.05:080][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.04-04.25.05:084][984]LogFbx: Triangulating skeletal mesh P16_low
+[2021.10.04-04.25.05:084][984]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.10.04-04.25.05:085][984]LogSkeletalMesh: Section 0: Material=0, 28 triangles
+[2021.10.04-04.25.05:086][984]LogSkeletalMesh: Building Skeletal Mesh kanpan_2_P16_low...
+[2021.10.04-04.25.05:087][984]LogSkeletalMesh: Section 0: Material=0, 28 triangles
+[2021.10.04-04.25.05:087][984]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/kanpan/kanpan_2.kanpan_2_P16_low
+[2021.10.04-04.25.05:089][984]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.10.04-04.25.05:089][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.04-04.25.05:093][984]LogFbx: Triangulating skeletal mesh P17_low
+[2021.10.04-04.25.05:094][984]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.10.04-04.25.05:094][984]LogSkeletalMesh: Section 0: Material=0, 12 triangles
+[2021.10.04-04.25.05:097][984]LogSkeletalMesh: Building Skeletal Mesh kanpan_2_P17_low...
+[2021.10.04-04.25.05:097][984]LogSkeletalMesh: Section 0: Material=0, 12 triangles
+[2021.10.04-04.25.05:097][984]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/kanpan/kanpan_2.kanpan_2_P17_low
+[2021.10.04-04.25.05:100][984]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.10.04-04.25.05:101][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.04-04.25.05:104][984]LogFbx: Triangulating skeletal mesh P18_low
+[2021.10.04-04.25.05:105][984]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.10.04-04.25.05:105][984]LogSkeletalMesh: Section 0: Material=0, 12 triangles
+[2021.10.04-04.25.05:106][984]LogSkeletalMesh: Building Skeletal Mesh kanpan_2_P18_low...
+[2021.10.04-04.25.05:106][984]LogSkeletalMesh: Section 0: Material=0, 12 triangles
+[2021.10.04-04.25.05:106][984]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/kanpan/kanpan_2.kanpan_2_P18_low
+[2021.10.04-04.25.05:110][984]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.10.04-04.25.05:110][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.04-04.25.05:116][984]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.10.04-04.25.05:116][984]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.10.04-04.25.05:116][984]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.10.04-04.25.05:116][984]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.10.04-04.25.05:116][984]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.10.04-04.25.05:116][984]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.10.04-04.25.05:116][984]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.10.04-04.25.05:116][984]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.10.04-04.25.05:116][984]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.10.04-04.25.05:116][984]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.10.04-04.25.05:116][984]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.10.04-04.25.05:116][984]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.10.04-04.25.05:116][984]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.10.04-04.25.05:116][984]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.10.04-04.25.05:436][988]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.10.04-04.25.05:436][988]LogShaderCompilers: Display: Total job queries 113, among them cache hits 17 (15.04%)
+[2021.10.04-04.25.05:437][988]LogShaderCompilers: Display: Tracking 32 distinct input hashes that result in 23 distinct outputs (71.88%)
+[2021.10.04-04.25.05:437][988]LogShaderCompilers: Display: RAM used: 0.13 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2021.10.04-04.25.05:437][988]LogShaderCompilers: Display: ================================================
+[2021.10.04-04.25.07:938][192]LogSlate: Window 'Message Log' being destroyed
+[2021.10.04-04.25.07:943][192]LogSlate: Window 'Message Log' being destroyed
+[2021.10.04-04.25.13:912][320]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\kch\Desktop\간판\KakaoTalk_20211004_100823406.png)
+[2021.10.04-04.25.14:238][320]LogTexture: Display: Building textures: KakaoTalk_20211004_100823406 (OODLE_AutoDXT, 4096X4096)
+[2021.10.04-04.25.14:854][320]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.04-04.25.14:854][320]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.04-04.25.14:854][320]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.04-04.26.22:388][362]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_3. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2021.10.04-04.26.23:280][459]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_4. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2021.10.04-04.26.28:975][118]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
